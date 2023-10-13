@@ -1,0 +1,9 @@
+#.env
+# use the hash sign for comments
+# Read - artilce to learn more about environment variables - https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+NODE_ENV=development
+PORT=8080
+
+# Set your database/API connection information here - # copy and paste your database connection URL fron ElephantSQL in the API_URL
+API_Key="Key Not set - starter code only" 
+API_URL="postgres://username:password@hostname/databasename" 
